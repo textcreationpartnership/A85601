@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight near Pendennis Castle in Cornwall between the Lord Hopton, and the Parliaments forces, upon the landing of his men for the fetching in of provision; with the number killed and wounded on both sides. Also, another bloudy fight at sea, between a squadron of the Princes fleet, and 18. marchants ships which were coming for London; with the particulars thereof, the number that were slain, two of the enemies ships sunk, and the rest chased to the Isle of Scilley. Together with severall propositions made by the General Councell of the Army; and their resolutions touching the Navy at sea, and the Army in Ireland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85601</idno>
+            <idno type="STC">Wing G1703</idno>
+            <idno type="STC">Thomason E549_9</idno>
+            <idno type="STC">ESTC R205634</idno>
+            <idno type="EEBO-CITATION">99864954</idno>
+            <idno type="PROQUEST">99864954</idno>
+            <idno type="VID">165007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165007)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E549[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight near Pendennis Castle in Cornwall between the Lord Hopton, and the Parliaments forces, upon the landing of his men for the fetching in of provision; with the number killed and wounded on both sides. Also, another bloudy fight at sea, between a squadron of the Princes fleet, and 18. marchants ships which were coming for London; with the particulars thereof, the number that were slain, two of the enemies ships sunk, and the rest chased to the Isle of Scilley. Together with severall propositions made by the General Councell of the Army; and their resolutions touching the Navy at sea, and the Army in Ireland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>2. Aprill, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Pendennis Castle (Falmouth, England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165007:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT Near <hi>Pendennis</hi> Caſtle in CORNWALL BETWEEN The Lord <hi>Hopton,</hi> and the <hi>Parliaments</hi> Forces, upon the landing of his men for the fetching in of proviſion; with the number killed and wounded on both ſides. ALSO, Another bloudy Fight at Sea, between a Squadron of the Princes Fleet, and 18. Marchants ſhips which were coming for <hi>London;</hi> with the particulars thereof, the number that were ſlain, two of the Ene<g ref="char:EOLhyphen"/>mies ſhips ſunk, and the reſt chaſed to the Iſle of <hi>Scilley.</hi> TOGETHER With ſeverall Propoſitions made by the General Councell of the Army; and their Reſolutions touching the Navy at Sea, and the Army in <hi>Ireland.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>R. W.</hi> 2. <hi>Aprill,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165007:2"/>
+            <pb n="1" facs="tcp:165007:2"/>
+            <head>A Bloudy FIGHT IN CORNWALL Between the Princes Forces commanded by the Lord <hi>Hopton,</hi> and the Parliaments Forces, neer <hi>Pen<g ref="char:EOLhyphen"/>dennis</hi> Caſtle, and a great Victory obtained at Sea.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lord <hi>Hopton</hi> with 20 Sayle of ſhips, lies floting up and downe the Brittiſh Coaſt; inſomuch that no ſhips can paſſe nor eſcape his fury; For, on Tueſday laſt a Fleet of Marchants ſayling towards the Lands-End, were ſet upon by the <hi>Hoptonians,</hi> who coming within ſhot of them gave them a broad ſide;
+<pb n="2" facs="tcp:165007:3"/>but were anſwered with the like volley from them a<g ref="char:EOLhyphen"/>gain; inſomuch, that they came to a hot diſpute, the fight continuing many hours, and after the exchange of ſeverall tokens from the Sons of <hi>Mars,</hi> the L. <hi>Hopton</hi> held off, refuſing to fight any longer, and ſteered to<g ref="char:EOLhyphen"/>wards the Iſle of <hi>Scilley;</hi> the famous ſhip called the <hi>Cul<g ref="char:EOLhyphen"/>pepper,</hi> &amp; about 6 more chaſed them about 2 leagues, ſunk three of them, the reſt eſcaped: in this fight many were ſlain and wounded on both ſides, and one of the Marchants ſhips ſunk alſo, above 100 Mariners ſacrifi<g ref="char:EOLhyphen"/>cing their lives in this engagement. The fight being en<g ref="char:EOLhyphen"/>ded, the Marchants Fleet hoyſted ſayl, &amp; ſteerd toward the Lands-End; which being done, the Lord <hi>Hopton</hi> put to Sea again, and (being thirſty of revenge) after few hours ſayl, he eſpyed a prey, who with fury and rage made towards them, gave them a broad ſide, ſurroun<g ref="char:EOLhyphen"/>ded them (although 8 in number) inſomuch that three of them were cloſe beſet, and ſeverall times ready to board; but by their undanted courage and gallantry repulſed them, diſputed the Onſet, and were in a good way to have got ſafe from them, but a ſupply of more ſhipping coming afterwards from <hi>Scilley,</hi> joyned with the firſt Squadron, who by their great potency and ſtrength overpowred them boarded the ſhips, ſeized on all the goods and marchandize, tying every man back to back, ſhutting them under Decks, and carryed them priſoners to the Iſle of Scilley, where they now remain under the barbarous reſtraint of Sir <hi>George Carteret,</hi> the Governour; <hi>God in his due time reſtore them to liberty, and grant them patiense, in this their time of affliction.</hi>
+            </p>
+            <p>If ſpeedy and timely ſupplies of ſhipping be not haſt<g ref="char:EOLhyphen"/>ned forth, it is to be feared, they will become ſole ma<g ref="char:EOLhyphen"/>ſters
+<pb n="3" facs="tcp:165007:3"/>of the Brittiſh Seas. Since their taking of the late prize, they have met with another <hi>Bristoll</hi> ſhip, richly laden with cloth, which the Lord <hi>Hopton</hi> hath diſtri<g ref="char:EOLhyphen"/>buted amongſt the ſea-men and ſouldiers. He is now ſayled towards <hi>Milford</hi> Haven, but by the way, hee ſtruck in at a Creek neer <hi>Pendennis,</hi> where he landed many of his men for the fetching in of proviſion, and other accommodation; but before they could facili<g ref="char:EOLhyphen"/>ate and accompliſh their Deſign, the <hi>Parliaments</hi> For<g ref="char:EOLhyphen"/>ces at <hi>Pendennis</hi> having notice thereof, a conſiderable party of Horſe and Foot were forthwith commanded out, who haſtned to welcome their coming in, and en<g ref="char:EOLhyphen"/>deavoured to get between them and the water, for the intercepting of their paſſage; but through the maligni<g ref="char:EOLhyphen"/>ty of the Corniſh-men their deſign was almoſt fru<g ref="char:EOLhyphen"/>ſtrated; for after few hours march they were diſco<g ref="char:EOLhyphen"/>vered, and the Enemy in a poſture to receive them, who upon their neer approach ſaluted each other with the tokens of <hi>Mars,</hi> and after a hot conflict the <hi>Hoptoni<g ref="char:EOLhyphen"/>ans</hi> retreated within command of their Ships, our men purſued, kiled 19. wounded many, and made good their retreat with the loſſe of 7 men. Their Ordnance did much retard our purſuit, by which meanes moſt of them got ſafe aboard having many Boats in readi<g ref="char:EOLhyphen"/>neſſe to receive them; otherwiſe few of them had e<g ref="char:EOLhyphen"/>ſcaped: ſome of the Land ſouldiers deſerted them at their coming aſhore, who ſay, That the Lord <hi>Hopton</hi> is commander in chief of that Squadron, and of all the Land forces thereunto belonging, and that his Colours (or Enſigns) are yelow, with black bulers in the midſt, and on the top thereof, this Motto written in Chara<g ref="char:EOLhyphen"/>cters of Gold, <hi>For Charles the ſecond.</hi>
+            </p>
+            <pb n="4" facs="tcp:165007:4"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>We hear that the Prince of <hi>Wales</hi> is come to Helver ſluce, accompanied by the prince of <hi>Orenge,</hi> and many other Gentlemen of eminency, and after ſome confe<g ref="char:EOLhyphen"/>rence between them, his Highneſſe took his leave, and took ſhipping for <hi>Jerſey,</hi> (as it is reported) who going aboard the <hi>Convertine,</hi> lanched forth into the Ocean with a pleaſant Gatle, the great Guns bidding <hi>Vale</hi> to his departure; there are gone with him the Marqueſſe of <hi>Newcastle,</hi> the Lord <hi>Culpepper,</hi> the Lord <hi>Wilmot,</hi> Major Gen. <hi>Maſſey,</hi> and many others; and from Jerſey its ſaid they are reſolved for <hi>Ireland,</hi> where the Prince intends to ſet up his Standard againſt the parliament of <hi>Eng<g ref="char:EOLhyphen"/>land, evill Councell prevaile much:</hi> the ſhips who tranſ<g ref="char:EOLhyphen"/>ported them from hence were all Men of war, being 8 in number, His Highneſſe is very potent, and numerous in ſhipping, who ſeize and take ſeverall prizes at Sea, which doth much propagate their deſign; inſomuch, that many Engliſh Factors, have ſolicited Him, deſiring that ſpeedy care may be taken for prevention thereof, and after ſome conſultation with his Councell in re<g ref="char:EOLhyphen"/>ference to the ſame, He declared, and promſied, That if the Marchants of the City of <hi>London</hi> would gather and advance the ſum of 40000. <hi>l.</hi> for the maintenance of his Navy at Sea, the like ſhould be prevented for the future; and to the end there might be free trading &amp; commerce at Sea, He was reſolved to ſend a meſſage, to acquaint them with theſe his deſires, &amp;c. The Clergy are exceedingly inraged at the tranſactions in <hi>England,</hi> and do incite the people to deſperate engagements for revenge of the Royall bloud, and inveſting <hi>Charles</hi> the ſecond in his Throne: But the States at a general coun<g ref="char:EOLhyphen"/>cel reſolved, That proclamation ſhould be made tho<g ref="char:EOLhyphen"/>row
+<pb n="5" facs="tcp:165007:4"/>out the United Provinces, That ſuch Miniſters as ſhould hereafter preach either publikely or privately, any thing concerning State affairs, either in relation to the differences of <hi>England, Scotland, France,</hi> or elſe<g ref="char:EOLhyphen"/>where, or ſhould hold any private correſpondency from <hi>England,</hi> or elſe-where, as to that purpoſe ſhould be forthwith baniſhed. This Proclamation was pro<g ref="char:EOLhyphen"/>claimed by Order from the States.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Rotterdam</hi>
+                        <date>27 <hi>Martii,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>On the 26 of this inſtant we received intelligence that 21 Engliſh ſhips are lately ſeized on at Sea, by Pr. <hi>Rupert</hi> and his Aſſociats; ſome of whom were of great value: the cuſtome thereof, and the two the French took in the ſtraits amounting to above 20000. l. Di<g ref="char:EOLhyphen"/>vers other ſhips have been alſo ſeized on neer <hi>Rie, Ha<g ref="char:EOLhyphen"/>ſtings,</hi> and other places.</p>
+            <p>On the 28. a great ſtorm aroſe in the hearts of ma<g ref="char:EOLhyphen"/>ny throughout the Cities of <hi>London</hi> and <hi>West minſter,</hi> occaſioned by the apprehending of Lteut. col. <hi>Joh. Lil<g ref="char:EOLhyphen"/>burn,</hi> Mr. <hi>Overton,</hi> and others, vpon ſuſpicion of being authors or diſperſers of a book. entituled <hi>The ſecond part of Englands new Chains,</hi> lately printed and diſper<g ref="char:EOLhyphen"/>ſed by thoſe called Levellers: the Houſe after many houres debate thereupon, voted the ſaid Book treaſona<g ref="char:EOLhyphen"/>ble, pernicious and of dangerous conſequence.</p>
+            <p>Upon the apprehending of the aforeſaid perſons many jealouſies aroſe in relation to a riſing within the city for the reſcuing of them from the power of the Souldiers; but their Guardiants conducted them ſafe to White Hall, and upon Thurſday laſt the ſaid Lieu. Col. <hi>Lilburn</hi> was brought before the Councel of State ſitting at <hi>Derby</hi> houſe, and upon his examination, decla<g ref="char:EOLhyphen"/>red, <hi>That he was a true and cordiall lover of</hi> England's <hi>peace and freedom, that he would ſacrifice his life for the
+<pb n="6" facs="tcp:165007:5"/>preſervation of the rights and liberties thereof, and that he would rather ſuffer a thouſand tortures, then betray his trust, or deſert his first principles and engagement.</hi> Some other of the Citizens were alſo examined, who gave very ſtrange Anſwers, &amp;c.</p>
+            <p>The Parliament have debated the buſineſſe of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and voted Lieu. Gen. <hi>Crumwell,</hi> Captain Generall of all the Forces which are to be expedited over for the reducement of that kingdom, and bringing of it to the obedience of Parl. He hath declared to the Houſe his willingneſſe and acceptance for this preſent expedi<g ref="char:EOLhyphen"/>on; and in order thereunto, ſeveral propoſitions were propoſed and debated, a copy whereof followeth. 1 That ſuch Reg. as go may have all their arrears audited, ſta<g ref="char:EOLhyphen"/>ted, &amp; Debenters given. 2 That viſible ſecurity be given for ſo much as ſhal appear due, and to be paid to any Truſtee or friend with whom the Debenter ſhall be left. 3 That ſuch of the army as undertake ſhal have their Arrears from the year 1645. firſt paid. 4 That ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the ſix ſcore thouſand l. <hi>per menſem,</hi> appoin<g ref="char:EOLhyphen"/>ted for <hi>England</hi> and <hi>Ireland</hi> three moneths pay be carryed over with thoſe that go. 5 The privat Soldier &amp; non commiſſion Officer to have two moneths pay of Arrears, and all Officers under Captains one moneths pay. 6 That <hi>Briſtol, Chester. Le<g ref="char:EOLhyphen"/>verpool, Beumorris castle,</hi> the Iſle of <hi>Angleſea,</hi> and <hi>Milford</hi> in South wales, be as Magazines for the Iriſh ſervice. 7 That a ſufficient number of ſhips bee employ'd on the Iriſh Coaſt. 8. That a Court of Admiralty may be erected at Dublin to prevent their frequent comming into England to diſpoſe of prizes. 9 The pay of the Officers and Souldiers to be according to the Ieiſh eſtabliſhment. 10. Proviſion to be made for mai<g ref="char:EOLhyphen"/>med ſouldiers, and the widdowes and orphans of thoſe ſlain. 11. The Parl. forces in Ireland and thoſe now going over to be under one eſtabliſhmen. 12 That 5000 Quarters of Bread and 200. tun of ſalt and 200 tun of cheeſ be tranſported with thoſe that ſhall go over, &amp;c.</p>
+            <closer>
+               <signed>Imprimatur T. JENNINGS</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
